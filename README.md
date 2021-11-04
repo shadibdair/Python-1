@@ -1,3 +1,5 @@
+### All algorithms implemented in Python
+
 <div align="center">
 <!-- Title: -->
   <a href="https://github.com/TheAlgorithms/">
